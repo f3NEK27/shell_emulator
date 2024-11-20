@@ -73,4 +73,26 @@ JSON. Также включены тесты для проверки прави�
 ![alt text](image.png)
 
 
+```cd``` : 
 
+![alt text](image-1.png)
+
+
+```who``` : 
+
+![alt text](image-2.png)
+
+
+```du``` : 
+
+![alt text](image-3.png)
+
+
+```find``` : 
+
+![alt text](image-4.png)
+
+
+```exit``` :
+
+![alt text](image-5.png)
